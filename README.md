@@ -1,5 +1,3 @@
-### **README.md**
-
 # SimilarWeb Scraper
 
 This Python tool enables you to scrape traffic, geography, and demographic data from the SimilarWeb platform. It leverages Selenium for browser automation and provides structured, reusable methods for data extraction.
