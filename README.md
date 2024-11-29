@@ -1,6 +1,5 @@
 ### **README.md**
 
-```markdown
 # SimilarWeb Scraper
 
 This Python tool enables you to scrape traffic, geography, and demographic data from the SimilarWeb platform. It leverages Selenium for browser automation and provides structured, reusable methods for data extraction.
@@ -143,4 +142,3 @@ This project is open-source and available under the [MIT License](LICENSE).
    ```
 
 2. **Legal Considerations**: Ensure compliance with SimilarWeb's terms of service when using this scraper.
-```
